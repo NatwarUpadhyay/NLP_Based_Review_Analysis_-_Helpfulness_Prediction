@@ -10,23 +10,6 @@ This Natural Language Processing (NLP) project is focused on analyzing user revi
 
     Collected Attributes: Review title, body, date, rating, helpful votes, verified purchase tag, image attachment status
 
-📁 Repository Structure
-
-📁 iphone11-nlp-review-analysis/
-│
-├── 📁 data/
-│   └── iphone11_reviews.csv
-│
-├── 📁 src/
-│   ├── scrape_reviews.ipynb                      # Scraping Flipkart reviews
-│   ├── review_insights_analysis.ipynb             # Historical review analysis
-│   ├── recent_trend_analysis.ipynb                # Latest 25% reviews re-analysis
-│   ├── sentiment_classifier.ipynb                 # Sentiment classification model
-│   └── helpfulness_prediction.ipynb               # Helpfulness vote prediction
-│
-│
-├── requirements.txt
-└── README.md
 
 💼 Project Breakdown
 📌 Review Insights Analysis (review_insights_analysis.py)
@@ -103,3 +86,14 @@ Goal: Predict the number of helpful votes a review may receive.
 
     Helpfulness Scoring to rank top reviews on e-commerce listings
 
+📝 Future Enhancements
+
+    Expand scraping across other platforms (Amazon, Myntra).
+
+    Use BERT or LLM-based classification models.
+
+    Deploy classifier and helpfulness model as REST APIs.
+
+
+🤝 Contributing
+Pull requests and feature suggestions are welcome! For major changes, please open an issue first.
