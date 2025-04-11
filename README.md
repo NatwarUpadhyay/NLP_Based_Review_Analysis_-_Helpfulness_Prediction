@@ -1,4 +1,4 @@
-# NLP_Based_Review_Analysis_-_Helpfulness_Prediction
+# NLP_Based_Review_Analysis_&_Helpfulness_Prediction
 This project explores the power of Natural Language Processing (NLP) in analyzing customer sentiments, identifying recent trends in product feedback, classifying review polarity, and predicting review helpfulness!
 
 This Natural Language Processing (NLP) project is focused on analyzing user reviews for the iPhone 11 scraped from Flipkart, in order to extract valuable business insights, build automated sentiment classification models, and predict review helpfulness. The project simulates real-world business queries and helps build end-to-end pipelines for actionable review analytics.
